@@ -1,7 +1,7 @@
 const Game=require("./Game");
 
-let g1 = Game.newGame("Tanuja", "Sneha");
-let g2 = Game.newGame("Dipika", "Rasika");
+let g1 = Game.newGame("Suswar", "Dhruv");
+let g2 = Game.newGame("Aniket", "Nikunj");
 
 console.log(g1.play(0));
 console.log("This is second game");
